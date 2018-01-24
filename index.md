@@ -91,7 +91,8 @@ eventbrite: 42140046012          # optional: alphanumeric key for Eventbrite reg
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>. If you are a non-UNT affiliated visitor,
+  please view <a href="http://transportation.unt.edu/visitor-information">parking information</a>.
 </p>
 {% endif %}
 
